@@ -85,16 +85,16 @@ header {
     font-family: 'Ubuntu', sans-serif;
     font-size: 15px;
     width: 300px;
-    background: url(/img/pic1.jpg) no-repeat top;
+    background: url(../img/pic1.jpg) no-repeat top;
     padding-top: 70px;
 }
 
 .pos1 {
-    background: url(/img/pic2.jpg) no-repeat top;
+    background: url(../img/pic2.jpg) no-repeat top;
 }
 
 .pos2 {
-    background: url(/img/pic3.jpg) no-repeat top;
+    background: url(../img/pic3.jpg) no-repeat top;
 }
 
 .features {
