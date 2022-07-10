@@ -1,0 +1,151 @@
+body {
+    color: white;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1171px;
+    margin: 0 auto;
+}
+
+header {
+    background: rgb(77, 191, 254);
+    background: linear-gradient(90deg, rgba(77, 191, 254, 1) 0%, rgba(55, 143, 217, 1) 100%);
+}
+
+.logo {
+    margin-top: 60px;
+    margin-bottom: 140px;
+}
+
+.dream {
+    font-size: 37px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    width: 560px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.dream span {
+    font-size: 59px;
+}
+
+.text {
+    width: 400px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.7em;
+    margin-bottom: 45px;
+}
+
+.btn {
+    text-decoration: none;
+    color: black;
+    padding: 15px 30px;
+    border: 0px solid black;
+    background: #ffd429;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    transition: all 0.5s ease;
+}
+
+.btn:hover {
+    color: #1f2221;
+    background: #0ce79e;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tour {
+    margin-top: 110px;
+    margin-bottom: 120px;
+    margin-left: 30px;
+}
+
+.h {
+    text-align: center;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.future {
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.possibilities {
+    margin-top: 50px;
+    margin-bottom: 120px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    width: 300px;
+    background: url(/img/pic1.jpg) no-repeat top;
+    padding-top: 70px;
+}
+
+.pos1 {
+    background: url(/img/pic2.jpg) no-repeat top;
+}
+
+.pos2 {
+    background: url(/img/pic3.jpg) no-repeat top;
+}
+
+.features {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    height: 310px;
+}
+
+.mail {
+    background: #ecf3f8;
+}
+
+.form{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h {
+    padding-top: 110px;
+    font-size: 30px;
+}
+
+
+input{
+    border: 1px solid gray;
+    padding: 16px 25px;
+    width: 343px;
+    margin-bottom: 17px;
+    box-sizing: border-box;
+}
+
+.btn2 {
+    width: 343px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 102px;
+}
+
+footer{
+    background: #164d7a;
+    padding-bottom: 0;
+}
+
+.MyDreams{
+    padding-top: 58px;
+    padding-bottom: 62px;
+    text-align: center;
+    font-family:'Open Sans', sans-serif ;
+    font-size: 14px;
+    margin: 0px;
+}
